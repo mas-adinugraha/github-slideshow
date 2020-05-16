@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our last slide!"
+title: "Ini Slide ke-4!"
 ---
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+Ini yang disebug **belajar** dan *berlatih* github.
