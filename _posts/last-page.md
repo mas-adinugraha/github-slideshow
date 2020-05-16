@@ -2,4 +2,4 @@
 layout: slide
 title: "Ini Slide ke-4!"
 ---
-Ini yang disebug **belajar** dan *berlatih* github.
+Ini yang disebut **belajar** dan *berlatih* github.
